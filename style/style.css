@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    border: none;
+    font-family: 'poppins'sans-serif;
+}
+body{
+    background: #0ab683e2;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    min-height: 100vh;
+}
+.login-page{
+    width: 30rem;
+    background: #0592d8;
+    padding: 45px 33px;
+    color: antiquewhite;
+}
+.login-page .header{
+    text-align: center;
+}
+.login-page .header h1{
+    font-size: 4rem;
+    font-weight: 700;
+}
+.login-page .header h3{
+    font-size: 2rem;
+}
+.login-page .user-input{
+    position: relative;
+    width: 100%;
+    background: transparent;
+    height: 40px;
+    margin: 25px 0;
+}
