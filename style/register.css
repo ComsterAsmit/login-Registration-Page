@@ -127,3 +127,6 @@ body{
     text-decoration: underline;
     color: blue;
 }
+.login-page .regitration-btn a #icon{
+    font-size: 28px;
+}
